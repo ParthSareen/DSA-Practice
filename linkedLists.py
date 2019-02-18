@@ -48,7 +48,6 @@ class linkedList:
 			return
 
 	def deleteNode(self, key):
-
         # Store head node
         temp = self.head
 
